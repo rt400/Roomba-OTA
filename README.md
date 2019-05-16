@@ -11,5 +11,11 @@ https://www.youtube.com/watch?v=t2NgA8qYcFI
 
 Diagrams :
 
+ESP-01 :
+
+![](https://github.com/rt400/Roomba-OTA/blob/master/ESP-01-SCEMATIC.jpg)
+
+Roomba :
+
 ![](https://github.com/thehookup/MQTT-Roomba-ESP01/blob/master/schematic.JPG)
 
